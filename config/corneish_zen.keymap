@@ -9,10 +9,6 @@
   };
 };
 
-&mt {
-    tapping-term-ms = <10000>;
-};
-
 / {
         keymap {
                 compatible = "zmk,keymap";
